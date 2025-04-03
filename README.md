@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao perfil do Nawatsu 😁
 <div>
- <img src="https://gifdb.com/images/high/gilgamesh-fate-grand-order-ready-to-fight-bhu5vhc516k0dkpl.gif">
+ <a href="https://www.youtube.com/@Nawatsu" target="_blank"><img src="https://gifdb.com/images/high/gilgamesh-fate-grand-order-ready-to-fight-bhu5vhc516k0dkpl.gif">
 </div>
 
 
