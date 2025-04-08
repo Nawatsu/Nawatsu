@@ -8,15 +8,13 @@
  <div>
    <a href="https://github.com/Nawatsu">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nawatsu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nawatsu&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawatsu&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img height="180em" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nawatsu&amp;layout=compact&amp;langs_count=6&amp;theme=tokyonight" style="max-width: 100%;">
 </div>
-
 
 <br>
  
